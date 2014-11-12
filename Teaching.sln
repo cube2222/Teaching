@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "For", "For\For.vcxproj", "{
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FirstAndLastDigit", "FirstAndLastDigit\FirstAndLastDigit.vcxproj", "{622CCE0F-1089-422E-93F8-545B8F62CF43}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PrimeNumbers", "PrimeNumbers\PrimeNumbers.vcxproj", "{6F22322F-4D36-44E4-82BA-F71B191591B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -39,6 +41,10 @@ Global
 		{622CCE0F-1089-422E-93F8-545B8F62CF43}.Debug|Win32.Build.0 = Debug|Win32
 		{622CCE0F-1089-422E-93F8-545B8F62CF43}.Release|Win32.ActiveCfg = Release|Win32
 		{622CCE0F-1089-422E-93F8-545B8F62CF43}.Release|Win32.Build.0 = Release|Win32
+		{6F22322F-4D36-44E4-82BA-F71B191591B6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6F22322F-4D36-44E4-82BA-F71B191591B6}.Debug|Win32.Build.0 = Debug|Win32
+		{6F22322F-4D36-44E4-82BA-F71B191591B6}.Release|Win32.ActiveCfg = Release|Win32
+		{6F22322F-4D36-44E4-82BA-F71B191591B6}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
